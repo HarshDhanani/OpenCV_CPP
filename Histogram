@@ -2,7 +2,7 @@
 #include <iostream>
 
 using namespace cv;
-using namespace std
+using namespace std;
 
 int main(int argc, char* argv[])
 {
